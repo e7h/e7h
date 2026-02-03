@@ -1,1 +1,1 @@
-<img src="https://i.imgur.com/ozbzllE.gif" alt="Snake animation" />
+![Demo](https://i.imgur.com/ozbzllE.gif)
