@@ -1,5 +1,5 @@
 ## 🎬 Demo
 
 <p align="center">
-  <img src="demo.gif" width="650" />
+  <img src="ezgif.com-video-to-gif-converter.gif" width="650" />
 </p>
