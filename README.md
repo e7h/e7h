@@ -1,12 +1,4 @@
 ```c
-/*
-woowowowowowowowowoowowowowowowowowowowowowow
- File        : slay.profile
- Disassembly : Clean C Representation
- Analyst     : Slay
-woowowowowowowowowoowowowowowowowowowowowowow
-*/
-
 #include <stdint.h>
 
 typedef struct {
@@ -33,15 +25,4 @@ static profile_t slay = {
         "Golang"
     }
 };
-
-/*
-woowowowowowowowowoowowowowowowowowowowowowow
-[+] Reverse Engineering Mindset
-[+] Offensive Security Focus
-[+] Low-Level Programming Oriented
-[+] Malware Research & Development
-woowowowowowowowowoowowowowowowowowowowowowow
-Status: Active
-Mode  : Learning / Building / Breaking
-*/
 ```
